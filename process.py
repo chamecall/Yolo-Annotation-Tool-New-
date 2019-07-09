@@ -1,14 +1,11 @@
 import glob, os
+import argparse
 
-# Current directory
-current_dir = os.path.dirname(os.path.abspath(__file__))
 
-print(current_dir)
-
-current_dir = 'Your dataset path.'
-
-# Directory where the data will reside, relative to 'darknet.exe'
-#path_data = './NFPAdataset/'
+parser = argparse.ArgumentParser()
+parser.add_argument('-d', '--dir', dest='dir', help='directory containing dataset images')
+args = parser.parse_args()
+current_dir = args.dir
 
 # Percentage of images to be used for the test set
 percentage_test = 10;

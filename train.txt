@@ -1,0 +1,8 @@
+/home/algernon/Yolo-Annotation-Tool-New-/Images/cardog/dog-1.jpg
+/home/algernon/Yolo-Annotation-Tool-New-/Images/cardog/cat-4.jpg
+/home/algernon/Yolo-Annotation-Tool-New-/Images/cardog/cat-5.jpg
+/home/algernon/Yolo-Annotation-Tool-New-/Images/cardog/cat-1.jpg
+/home/algernon/Yolo-Annotation-Tool-New-/Images/cardog/cat-2.jpg
+/home/algernon/Yolo-Annotation-Tool-New-/Images/cardog/dog-3.jpg
+/home/algernon/Yolo-Annotation-Tool-New-/Images/cardog/dog-2.jpg
+/home/algernon/Yolo-Annotation-Tool-New-/Images/cardog/cat-3.jpg
